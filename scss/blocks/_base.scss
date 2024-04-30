@@ -1,0 +1,24 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:1regular,500,600,700);
+
+*{
+    margin: 0;
+    padding: 0;
+    outline: none;
+    box-sizing: border-box;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    font-family: "Montserrat", sans-serif;
+}
+
+.none{
+    display: none;
+}
+
+.no-scroll{
+    overflow-y: hidden;
+}
